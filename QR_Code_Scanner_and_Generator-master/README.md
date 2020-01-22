@@ -1,5 +1,3 @@
-QR Code Scanner is the fastest in the google play store.
-Enable more feature for your Android device.
 Key features of QR Code Scanner :-
 • QR Code Scanner.
 • QR Code Generator.
